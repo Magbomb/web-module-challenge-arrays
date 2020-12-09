@@ -107,7 +107,7 @@ function removeLastFlavor(/*your code here*/){
 Write a function that returns a flavor at a given index in the array.
 
 Use the getFlavorByIndex function below to do the following:
-    1. Recieve an array
+    1. Receive an array
     2. Receive a number (the desired index)
     3. Return the flavor located at the received index position
 
